@@ -6,7 +6,7 @@ We help businesses, startups, and software development agencies build reliable d
 
 We turn business requirements into maintainable, scalable software using modern technologies and practical engineering approaches.
 
-🌐 **Website:** https://darkslateblue-quail-193788.hostingersite.com/  
+🌐 **Website:** [www.forekey.in](https://darkslateblue-quail-193788.hostingersite.com/)  
 📩 **Email:** [contact@forekey.in](mailto:contact@forekey.in)  
 🤝 **Available for:** International projects, freelance engagements, and software development partnerships
 
