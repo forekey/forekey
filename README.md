@@ -65,15 +65,13 @@ We select technologies based on the project’s requirements, maintainability, p
 
 ---
 
-## 📂 Featured Projects
+## 📂 Portfolio
 
-Explore our public repositories for implementation examples, reusable components, and technical demonstrations.
+We're preparing public demonstrations of our development work.
 
-- **Business Dashboard Demo** — A demonstration of a modern business dashboard and application interface.
-- **API Development Example** — A sample backend/API project demonstrating request handling and application structure.
-- **AI-Enabled Application Demo** — A demonstration of integrating AI capabilities into a business workflow.
-
-*Add links to these projects only after the corresponding public repositories are available. Until then, you can replace this section with “Portfolio projects coming soon.” Do not publish confidential client code or private company repositories.*
+For project enquiries, custom application development, or
+software agency partnerships, contact us at
+[contact@forekey.in](mailto:contact@forekey.in).
 
 ---
 
@@ -100,6 +98,23 @@ We welcome collaboration with:
 - Businesses modernizing existing applications or integrating APIs and AI capabilities
 
 Whether you need a new application, help extending an existing product, or a development partner for ongoing projects, let's discuss your requirements.
+
+---
+
+## 🤝 Development Partnerships
+
+Forekey Technologies works with international clients and
+software agencies on:
+
+- React and Next.js frontend development
+- Laravel, Symfony, and Python backend development
+- SaaS products and custom business applications
+- REST APIs and third-party integrations
+- AI-enabled application features
+
+Need an additional development partner for your next project?
+
+**Email:** [contact@forekey.in](mailto:contact@forekey.in)
 
 ---
 
